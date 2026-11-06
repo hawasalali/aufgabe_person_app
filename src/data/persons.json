@@ -1,0 +1,27 @@
+[
+    {
+        "name": "hawas",
+        "age": 30,
+        "email": "hawas@bbq.de"
+    },
+    {
+        "name": "saeed",
+        "age": 28,
+        "email": "saeed20@gamil.com"
+    },
+    {
+        "name": "wendu",
+        "age": 33,
+        "email": "we@bbq.de"
+    },
+    {
+        "name": "knfah",
+        "age": 29,
+        "email": "knfah@bbq.de"
+    },
+    {
+        "name": "juri",
+        "age": 37,
+        "email": "juri@bbq.de"
+    }
+]
